@@ -1,0 +1,9 @@
+court_line_detector/__pycache__/*
+runs/detect/*
+runs/track/*
+mini_court/__pycache__/*
+trackers/__pycache__/*
+utils/__pycache__/*
+output_videos/*
+input_videos/*
+models/*
